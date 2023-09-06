@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movies>
+    <movie>
+        <id>1</id>
+        <movieName>The Black Demon</movieName>
+        <movieDescription>Josh Lucas (Ford v Ferrari, Yellowstone) ima glavnu ulogui u ovom napetom horor trileru redatelja filma Rambo: Do zadnje kapi krvi.
+Idilični obiteljski odmor naftnog magnata Paula Sturgesa (Lucas) pretvori se u noćnu moru kada se iz dubina oceana pojavi masivni megalodon poznat po imenu: Crni demon, koji je spreman učiniti sve kako bi zaštitio svoj teritorij. Nasukani i pod stalnim napadima, Paul i njegova obitelj moraju nekako pronaći način kako se vratiti na kopno prije nego što ih ponovno napadne u ovoj epskoj bitci između čovjeka i prirode.
+22.15</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/1.6.2023_10_49_23_BLACK_DEMON_FINAL_HR.jpg</imageUrl>
+        <showingDate>2023-07-01T00:00:00+02:00</showingDate>
+        <actors>
+            <actor>
+                <id>2</id>
+                <actorName>Josh Lucas</actorName>
+            </actor>
+            <actor>
+                <id>3</id>
+                <actorName>Fernanda Urrejola</actorName>
+            </actor>
+            <actor>
+                <id>4</id>
+                <actorName>Venus Ariel</actorName>
+            </actor>
+        </actors>
+        <directors>
+            <director>
+                <id>1</id>
+                <directorName>Adrian Grunberg</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>1</id>
+                <genreName>horor</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\33b7c185-b486-43a0-a484-e9eadec177ca.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>2</id>
+        <movieName>No Hard Feelings</movieName>
+        <movieDescription>Jennifer Lawrence u ulozi producentice i glavne glumice u filmu Cura za sve, komediji koju režira Gene Stupnitsky, redatelj filma Dobri dečki i koscenarist filma Zločesta učiteljica.
+Na rubu gubitka doma iz djetinjstva, Maddie (Lawrence) nailazi na neobični oglas za posao: bogati i prebrižni roditelji traže osobu koja će izlaziti s njihovim introvertnim 19-godišnjim sinom, Percyjem, prije nego što ode na fakultet. Na vlastito iznenađenje, Maddie ubrzo otkriva da to neće biti lagan zadatak.
+20.15</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/6.6.2023_14_28_52_No_hard_HR.jpg</imageUrl>
+        <showingDate>2023-07-01T00:00:00+02:00</showingDate>
+        <actors>
+            <actor>
+                <id>5</id>
+                <actorName>Jennifer Lawrence</actorName>
+            </actor>
+            <actor>
+                <id>6</id>
+                <actorName>Ebon Moss-Bachrach</actorName>
+            </actor>
+            <actor>
+                <id>7</id>
+                <actorName>Natalie Morales</actorName>
+            </actor>
+            <actor>
+                <id>8</id>
+                <actorName>Matthew Broderick</actorName>
+            </actor>
+        </actors>
+        <directors>
+            <director>
+                <id>2</id>
+                <directorName>Gene Stupnitsky</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>2</id>
+                <genreName>komedija</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\494d0821-faf0-4439-a747-68f8a3f10de3.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>3</id>
+        <movieName>Dedek gre na jug</movieName>
+        <movieDescription>Film Djedica ide na jug je priča o životu, ljubavi, prijateljstvu, očekivanjima i potrazi za smislom.
+Vlado otme svog najboljeg prijatelja Borisa iz bolnice jer ne želi prihvatiti da Boris umire. Boris i Vlado su glazbenici koji se poznaju dugi niz godina jer su zajedno svirali u jazz orkestru. Vlado odlučuje odvesti Borisa u Makedoniju kako bi se ponovno susreo sa svojom dugogodišnjom, nikad prežaljenom ljubavi Nedom s kojom je nesretnim tijekom događaja prekinuo vezu prije mnogo godina. Isprva sve ide po planu, ali onda im put ispriječi Romkinja Esma koja je svjedočila likvidaciji i sada je u bijegu.
+17.00</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/12.6.2023_13_07_36_DEDEK_GRE_NA_JUG_HR.jpg</imageUrl>
+        <showingDate>2023-07-01T00:00:00+02:00</showingDate>
+        <actors>
+            <actor>
+                <id>9</id>
+                <actorName>Boris Cavazza</actorName>
+            </actor>
+            <actor>
+                <id>10</id>
+                <actorName>Vlado Novak</actorName>
+            </actor>
+            <actor>
+                <id>11</id>
+                <actorName>Zala Djuric</actorName>
+            </actor>
+            <actor>
+                <id>12</id>
+                <actorName>Goran Navojec</actorName>
+            </actor>
+            <actor>
+                <id>13</id>
+                <actorName>Senko Velinov</actorName>
+            </actor>
+            <actor>
+                <id>14</id>
+                <actorName>Maruša Majer</actorName>
+            </actor>
+            <actor>
+                <id>15</id>
+                <actorName>Nešo Tokalić</actorName>
+            </actor>
+        </actors>
+        <directors>
+            <director>
+                <id>3</id>
+                <directorName>Vinci Vogue Anžlovar</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>2</id>
+                <genreName>komedija</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\8aa18099-2a4c-46f5-9079-3f535c6d3b4b.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>4</id>
+        <movieName>Argonauts</movieName>
+        <movieDescription>Na daleki put u drevnu Grčku vodi nas mlada i pametna mišica Pattie koja je oduvijek željela postati heroina. Pattie, uz mačka Sama, starog heroja Jasona i Argonaute, kreće u odvažnu potragu kako bi stanovnicima Yolcosa pružila pomoć u izradi kipa grčkog boga mora - Posejdona. Yolcos krasi spomenik Zeusu, ali ne i Posejdonu, što u njemu stvara strašnu ljubomoru koja prelazi u bijes. U žaru ljutnje Posejdon stanovnicima Yolcosa oduzima zlatno runo, koje im osigurava sretan i lagodan život, dajući im rok do kojeg moraju izgraditi i njegov spomenik. U pustolovini života hrabra se mišica suočava s najbizarnijim i najopasnijim stvorenjima iz doba mitologije. 
+14.00</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/22.3.2023_15_44_55_ARGONUTS_HR.jpg</imageUrl>
+        <showingDate>2023-07-01T00:00:00+02:00</showingDate>
+        <actors/>
+        <directors>
+            <director>
+                <id>4</id>
+                <directorName>David Alaux</directorName>
+            </director>
+            <director>
+                <id>5</id>
+                <directorName>Eric Tosti</directorName>
+            </director>
+            <director>
+                <id>6</id>
+                <directorName>Jean-Francois Tosti</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>3</id>
+                <genreName>animirani</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\a31561b0-ed61-4163-9cbc-8e73e091cdda.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>5</id>
+        <movieName>Elemental</movieName>
+        <movieDescription>Nova maštovita animacija studija Disney i Pixar koja govori o različitostima i njihovoj privlačnosti.
+Radnja filma smještena je u svijet u kojem četiri osnovna elementa vatra, zemlja, voda i zrak žive i koegzistiraju. Unatoč njihovim očitim i temeljnim razlikama oni će shvatiti da su mnogo sličniji nego što su mislili i da je ono što se nalazi iznutra puno važnije od onoga što je izvana.
+16.00</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/4.5.2023_10_01_45_Elemental_HR_novi.jpg</imageUrl>
+        <showingDate>2023-07-01T00:00:00+02:00</showingDate>
+        <actors/>
+        <directors>
+            <director>
+                <id>7</id>
+                <directorName>Pete Docter</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>3</id>
+                <genreName>animirani</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\e4c97d13-c943-4d27-adb6-cd50232581f4.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>6</id>
+        <movieName>Indiana Jones and the Dial of Destiny</movieName>
+        <movieDescription>Harrison Ford se vraća u ulozi najpoznatijeg profesora arheologije u petom filmu kultne franšize čija je radnja smještena u kasne šezdesete godine prošlog stoljeća, a čitava je priča povezana sa svemirskim programom.
+11.15, 14.05, 16.55, 19.30, 20.00, 22.25</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/6.6.2023_11_33_07_INDY_DIAL_DESTINY_PAYOFF_HR.jpg</imageUrl>
+        <showingDate>2023-07-01T00:00:00+02:00</showingDate>
+        <actors>
+            <actor>
+                <id>16</id>
+                <actorName>Harrison Ford</actorName>
+            </actor>
+            <actor>
+                <id>17</id>
+                <actorName>Mads Mikkelsen</actorName>
+            </actor>
+            <actor>
+                <id>18</id>
+                <actorName>Antonio Banderas</actorName>
+            </actor>
+            <actor>
+                <id>19</id>
+                <actorName>Phoebe Waller-Bridge</actorName>
+            </actor>
+        </actors>
+        <directors>
+            <director>
+                <id>8</id>
+                <directorName>James Mangold</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>4</id>
+                <genreName>akcija</genreName>
+            </genre>
+            <genre>
+                <id>5</id>
+                <genreName>avantura</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\6081de38-b435-4440-bc1d-29f6dbaafdbe.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>7</id>
+        <movieName>Little Mermaid</movieName>
+        <movieDescription>Dugoočekivani i Oscarom nagrađeni glazbeni klasik studija Disney ove godine dolazi u igranoj verziji priče o djevojci iz mora koja zbog ljubavi odlučuje napustiti svoj bajkoviti podvodni svijet.
+Najmlađa kćer kralja Tritona, Ariel, žudi saznati više o svijetu s druge strane mora, a dok obilazi površinu, zaljubljuje se u poletnog princa Erica. Dok je sirenama zabranjeno komunicirati s ljudima, Ariel mora slijediti svoje srce. Sklapa dogovor sa zlom morskom vješticom Ursulom, što joj daje priliku da iskusi život na kopnu, ali naposljetku dovodi svoj život – i očevu krunu – u opasnost.
+11.00</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/16.3.2023_13_28_15_Little_Mermaid_HR_novi.jpg</imageUrl>
+        <showingDate>2023-07-01T00:00:00+02:00</showingDate>
+        <actors>
+            <actor>
+                <id>20</id>
+                <actorName>Halle Bailey</actorName>
+            </actor>
+            <actor>
+                <id>21</id>
+                <actorName>Melissa McCarthy</actorName>
+            </actor>
+            <actor>
+                <id>22</id>
+                <actorName>Jonah Hauer-King</actorName>
+            </actor>
+            <actor>
+                <id>23</id>
+                <actorName>Javier Bardem</actorName>
+            </actor>
+        </actors>
+        <directors>
+            <director>
+                <id>9</id>
+                <directorName>Rob Marshall</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>5</id>
+                <genreName>avantura</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\d2b77728-d69f-4193-bb81-70768eeb771c.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>8</id>
+        <movieName>Kandahar</movieName>
+        <movieDescription>Gerard Butler u ulozi operativca CIA-e koji otkriva tajnu misiju u Afganistanu. Redatelj Ric Roman Waugh je sa Butlerom već surađivao na akcijskih hitovima Pad anđela i Grenland.
+Curenje obavještajnih podataka razotkriva tajnu misiju i otkriva identitet CIA-inog operativca koji radi na Bliskom Istoku. Zaglavljen u srcu neprijateljskog teritorija, on i njegov prevoditelj moraju se izboriti za izlaz iz pustinje do mjesta spašavanja u Kandaharu u Afganistanu, izbjegavajući elitne specijalne snage koje ih progone…
+19.00</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/24.4.2023_15_11_30_KANDAHAR_HR.jpg</imageUrl>
+        <showingDate>2023-07-01T00:00:00+02:00</showingDate>
+        <actors>
+            <actor>
+                <id>24</id>
+                <actorName>Gerard Butler</actorName>
+            </actor>
+            <actor>
+                <id>25</id>
+                <actorName>Bahador Foladi</actorName>
+            </actor>
+            <actor>
+                <id>26</id>
+                <actorName>Olivia-Mai Barrett</actorName>
+            </actor>
+        </actors>
+        <directors>
+            <director>
+                <id>10</id>
+                <directorName>Ric Roman Waugh</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>4</id>
+                <genreName>akcija</genreName>
+            </genre>
+            <genre>
+                <id>6</id>
+                <genreName>triler</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\4a60eb10-b5a1-4561-ad27-a491050463c7.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>9</id>
+        <movieName>Fool’s Paradise</movieName>
+        <movieDescription>Satirična komedija o nesretnom agentu Leniju, kojem se posreći kada otkrije da čovjek nedavno pušten iz ustanove za mentalno zdravlje izgleda baš kao glumac koji odbija da napusti svoju prikolicu. Uz pomoć moćnog producenta, Leni pomaže čovjeku da postane velika zvijezda, pa čak i da se oženi prelijepom glavnom glumicom. Njihove avanture dovode ih do ukrštanja sa pijanim kolegama, neuljudnim akcionim herojima, nepredvidivim rediteljima, super-agentom i ludim moćnicima. Slava i bogatstvo nisu sve što priželjkuju , a njih dvojica moraju da se izbore da se vrate stvarima koje su najvažnije.
+18.30, 21.15</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/22.5.2023_10_21_51_FOOLS_PARADISE_BiH.jpg</imageUrl>
+        <showingDate>2023-07-01T00:00:00+02:00</showingDate>
+        <actors>
+            <actor>
+                <id>27</id>
+                <actorName>Charlie Day</actorName>
+            </actor>
+            <actor>
+                <id>28</id>
+                <actorName>Kate Beckinsale</actorName>
+            </actor>
+            <actor>
+                <id>29</id>
+                <actorName>Adrien Brody</actorName>
+            </actor>
+            <actor>
+                <id>30</id>
+                <actorName>Ken Jeong</actorName>
+            </actor>
+            <actor>
+                <id>31</id>
+                <actorName>Jason Sudeikis</actorName>
+            </actor>
+            <actor>
+                <id>32</id>
+                <actorName>Edie Falco</actorName>
+            </actor>
+            <actor>
+                <id>33</id>
+                <actorName>Jason Bateman</actorName>
+            </actor>
+            <actor>
+                <id>34</id>
+                <actorName>Common</actorName>
+            </actor>
+            <actor>
+                <id>35</id>
+                <actorName>Jillian Bell</actorName>
+            </actor>
+            <actor>
+                <id>36</id>
+                <actorName>Dean Morris</actorName>
+            </actor>
+            <actor>
+                <id>37</id>
+                <actorName>Jimmi Simpson</actorName>
+            </actor>
+            <actor>
+                <id>38</id>
+                <actorName>Ray Liotta</actorName>
+            </actor>
+            <actor>
+                <id>39</id>
+                <actorName>John Malkovich</actorName>
+            </actor>
+        </actors>
+        <directors>
+            <director>
+                <id>11</id>
+                <directorName>Charlie Day</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>2</id>
+                <genreName>komedija</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\cdca1c97-2576-4c91-b741-e9500bd4115c.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>10</id>
+        <movieName>Ruby Gillman, Teenage Kraken</movieName>
+        <movieDescription>Ponekad se heroj, koji vam je suđeno da budete, nalazi odmah ispod površine.
+
+Ovog ljeta, Dream Works Animation zaronit će u uzburkane vode srednje škole i predstaviti nam urnebesnu, iskrenu akcionu komediju o stidljivoj tinejdžerki koja otkriva da je dio legendarne kraljevske loze mitskih morskih čudovišta i da je njena sudbina, u dubinama okeana, veća nego što je ikada mogla i da sanja.
+
+Simpatična, neobična šesnaestogodišnja Ruby Gilman (Lana Condor, To All the Boys I’ve Loved Before) očajnički pokušava da se uklopi u Oceanside srednju školu, ali, uglavnom je tamo potpuno nevidljiva.
+
+Pokazuje matematiku svojoj simpatiji, skejteru (Jaboukie Young-White, Ralf rastura internet) koji joj se, kako se čini, divi samo zbog njenih fraktala. Ruby ne može da ide na plažu da se druži sa drugom cool djecom, jer joj je previše zaštitnički nastrojena supermama (nominovana za Oskara Toni Collette) zabranila da ikada uđe u vodu.
+
+Ali kada prekrši glavno mamino pravilo, Ruby će otkriti da je direktni potomak ratnice i kraljice morskih čudovišta i da je predodređena da naslijedi tron svoje bake zapovjednice (dobitnica Oskara, Jane Fonda), Kraljice-ratnice od Sedam Mora. 
+
+Krakeni, morska čudovišta, zakleli su se da će štititi okeane svijeta od sujetnih moći gladnih sirena, protiv kojih se bore već eonima. Ali, postoji jedan veliki problem u vezi s tim: ispostavit će se da je školska ljepotica i popularna djevojčica Chelsea (dobitnica Emmya, Annie Murphy) baš sirena. Na kraju, Ruby će morati da prihvati ono što jeste i potrudi se da zaštiti one koje najviše voli.
+11.30, 16.00, 17.45</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/14.6.2023_14_05_48_Ruby_BiH.jpg</imageUrl>
+        <showingDate>2023-07-01T00:00:00+02:00</showingDate>
+        <actors/>
+        <directors>
+            <director>
+                <id>12</id>
+                <directorName>Kirk DeMicco</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>3</id>
+                <genreName>animirani</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\50cfa94b-a834-41a2-a9f9-b9bdecd7a10f.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>12</id>
+        <movieName>The Flash</movieName>
+        <movieDescription>neki desh</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/26.4.2023_12_05_37_Flash_HR_Main.jpg</imageUrl>
+        <showingDate>2023-07-01T00:00:00+02:00</showingDate>
+        <actors>
+            <actor>
+                <id>40</id>
+                <actorName>Ezra Miller</actorName>
+            </actor>
+            <actor>
+                <id>41</id>
+                <actorName>Michael Keaton</actorName>
+            </actor>
+            <actor>
+                <id>42</id>
+                <actorName>Sasha Calle</actorName>
+            </actor>
+            <actor>
+                <id>43</id>
+                <actorName>Ben Affleck</actorName>
+            </actor>
+            <actor>
+                <id>44</id>
+                <actorName>Kiersey Clemons</actorName>
+            </actor>
+            <actor>
+                <id>45</id>
+                <actorName>Antje Traue</actorName>
+            </actor>
+            <actor>
+                <id>46</id>
+                <actorName>Michael Shannon</actorName>
+            </actor>
+            <actor>
+                <id>3</id>
+                <actorName>Fernanda Urrejola</actorName>
+            </actor>
+            <actor>
+                <id>2</id>
+                <actorName>Josh Lucas</actorName>
+            </actor>
+        </actors>
+        <directors>
+            <director>
+                <id>16</id>
+                <directorName>Andy Muschietti</directorName>
+            </director>
+            <director>
+                <id>2</id>
+                <directorName>Gene Stupnitsky</directorName>
+            </director>
+            <director>
+                <id>5</id>
+                <directorName>Eric Tosti</directorName>
+            </director>
+            <director>
+                <id>6</id>
+                <directorName>Jean-Francois Tosti</directorName>
+            </director>
+            <director>
+                <id>7</id>
+                <directorName>Pete Docter</directorName>
+            </director>
+            <director>
+                <id>9</id>
+                <directorName>Rob Marshall</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>4</id>
+                <genreName>akcija</genreName>
+            </genre>
+            <genre>
+                <id>5</id>
+                <genreName>avantura</genreName>
+            </genre>
+            <genre>
+                <id>3</id>
+                <genreName>animirani</genreName>
+            </genre>
+            <genre>
+                <id>6</id>
+                <genreName>triler</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\3141774a-b70f-44aa-a85a-675851b9f4b6.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>13</id>
+        <movieName>Transformers: Rise of the Beasts</movieName>
+        <movieDescription>Vraćajući se akciji i spektaklu koji su oduševili fanove širom svijeta, film TRANSFORMERSI: BUĐENJE ZVIJERI odvešće kino publiku u jedinstvenu avanturu iz devedesetih godina u kojoj ćemo, pored Autobota upoznati i potpuno novu vrstu Transformersa – Maksimale. Nova vrsta postaće dio već postojeće bitke na Zemlji, koja se vodi između Autobota i Deseptikona.
+16.00</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/23.5.2023_10_35_41_Transformers_BiH.jpg</imageUrl>
+        <showingDate>2023-07-01T00:00:00+02:00</showingDate>
+        <actors>
+            <actor>
+                <id>47</id>
+                <actorName>Anthony Ramos</actorName>
+            </actor>
+            <actor>
+                <id>48</id>
+                <actorName>Dominique Fishback</actorName>
+            </actor>
+            <actor>
+                <id>49</id>
+                <actorName>Tobe Nwigwe</actorName>
+            </actor>
+            <actor>
+                <id>50</id>
+                <actorName>Peter Cullen</actorName>
+            </actor>
+            <actor>
+                <id>51</id>
+                <actorName>Ron Perlman</actorName>
+            </actor>
+            <actor>
+                <id>52</id>
+                <actorName>Peter Dinklage</actorName>
+            </actor>
+            <actor>
+                <id>53</id>
+                <actorName>Michelle Yeoh</actorName>
+            </actor>
+        </actors>
+        <directors>
+            <director>
+                <id>17</id>
+                <directorName>Steven Caple Jr.</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>4</id>
+                <genreName>akcija</genreName>
+            </genre>
+            <genre>
+                <id>5</id>
+                <genreName>avantura</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\ba0f5437-094a-46ff-a3d3-66b7006f496c.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>14</id>
+        <movieName>Mission: Impossible - Dead Reckoning Part One</movieName>
+        <movieDescription>U filmu NEMOGUĆA MISIJA ODMAZDA – PRVI DIO Ethan Hunt (Tom Cruise) i njegov IMF tim kreću u najopasniju misiju do sada: da pronađu novo, zastrašujuće oružje koje prijeti cijelom čovječanstvu, prije nego što padne u pogrešne ruke. U igri su sudbina svijeta i kontola budućnosti, mračne sile iz Ethanove  prošlosti se približavaju i smrtonosna trka oko svijeta počinje. Suočen sa misterioznim, svemoćnim neprijateljem, Ethan je primoran da shvati da ništa ne može biti važnije od njegove misije, čak ni životi onih do kojih mu je najviše stalo.20.15</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/21.6.2023_10_03_21_Mission7.jpg</imageUrl>
+        <showingDate>2023-07-08T00:00:00+02:00</showingDate>
+        <actors>
+            <actor>
+                <id>54</id>
+                <actorName>Tom Cruise</actorName>
+            </actor>
+            <actor>
+                <id>55</id>
+                <actorName>Hayley Atwell</actorName>
+            </actor>
+            <actor>
+                <id>56</id>
+                <actorName>Ving Rhames</actorName>
+            </actor>
+            <actor>
+                <id>57</id>
+                <actorName>Simon Pegg</actorName>
+            </actor>
+            <actor>
+                <id>58</id>
+                <actorName>Rebecca Ferguson</actorName>
+            </actor>
+            <actor>
+                <id>59</id>
+                <actorName>Vanessa Kirby</actorName>
+            </actor>
+            <actor>
+                <id>60</id>
+                <actorName>Esai Morales</actorName>
+            </actor>
+            <actor>
+                <id>61</id>
+                <actorName>Pom Klementieff</actorName>
+            </actor>
+        </actors>
+        <directors>
+            <director>
+                <id>18</id>
+                <directorName>Christopher McQuarri</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>4</id>
+                <genreName>akcija</genreName>
+            </genre>
+            <genre>
+                <id>5</id>
+                <genreName>avantura</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\52a584d6-a4ad-42ff-bee5-dc676f17c250.jpg</pictureFilePath>
+    </movie>
+    <movie>
+        <id>15</id>
+        <movieName>Barbie</movieName>
+        <movieDescription>Ružičasta avantura koja će oduševiti sve generacije. Ulogu ikonične lutke preuzima Margot Robbie, a njezinu bolju polovicu Kena utjelovljuje Ryan Gosling.
+Režiju potpisuje Greta Gerwig dok zvjezdani cast uključuje još i Willa Ferrella, Kate McKinnon, Simu Liu, Michaela Ceru i Americu Ferreru. Očekivano, scenografijom dominira upečatljiva ružičasta boja, a cijela estetika filma inspirirana je prividom savršenog života i izgleda junaka filma.
+20.00</movieDescription>
+        <imageUrl>https://www.blitz-cinestar-bh.ba/UserDocsImages/Plakats/23.6.2023_14_46_05_Barbie.jpg</imageUrl>
+        <showingDate>2023-07-19T00:00:00+02:00</showingDate>
+        <actors>
+            <actor>
+                <id>62</id>
+                <actorName>Margot Robbie</actorName>
+            </actor>
+            <actor>
+                <id>63</id>
+                <actorName>Ryan Gosling</actorName>
+            </actor>
+            <actor>
+                <id>64</id>
+                <actorName>Helen Mirren</actorName>
+            </actor>
+            <actor>
+                <id>65</id>
+                <actorName>Will Ferrell</actorName>
+            </actor>
+        </actors>
+        <directors>
+            <director>
+                <id>19</id>
+                <directorName>Greta Gerwig</directorName>
+            </director>
+        </directors>
+        <genres>
+            <genre>
+                <id>5</id>
+                <genreName>avantura</genreName>
+            </genre>
+            <genre>
+                <id>2</id>
+                <genreName>komedija</genreName>
+            </genre>
+        </genres>
+        <pictureFilePath>data\ef4fcbe4-b98c-494b-bfc8-1b2d0b6ef59a.jpg</pictureFilePath>
+    </movie>
+</movies>

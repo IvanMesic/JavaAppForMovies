@@ -1,0 +1,6 @@
+hr\meske\utilities\IconUtils.class
+hr\meske\utilities\JAXBUtils.class
+factories\UrlConnectionFactory.class
+hr\meske\utilities\MessageUtils.class
+hr\meske\utilities\FileUtils.class
+hr\meske\utilities\FileUtils$1.class
